@@ -1,0 +1,24 @@
+.negrita { 
+	font-weight: bold; /* Esto hace que el texto sea negrita */ 
+}
+.cursiva { 
+	font-style: italic; /* Aplicar cursiva */ 
+}
+
+.subrayado-puntos { 
+	text-decoration: underline;   /*Aplica un subrayado al texto*/
+	text-decoration-style: dotted; /* Aplica un subrayado de puntos */ 
+}
+	
+.resaltado {
+    background-color: yellow; /*Aplica resaltado en amarillo*/
+}
+/*body { 
+font-family: 'Comic Sans MS', cursive, sans-serif;} /*Aplica comic sans al body*/
+
+
+/*.comic-sans { 
+font-family: 'Comic Sans MS', cursive, sans-serif;  Aplica comic sans a una clase especifica}*/
+
+/*h1, h2, p { 
+font-family: 'Comic Sans MS', cursive, sans-serif; Esto aplica comic sans a todos los encabezados h1 h2 y parrafos p }*/
